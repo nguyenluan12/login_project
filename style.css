@@ -133,6 +133,13 @@ login .group span.show ion-icon:nth-child(1){
 .login .register{
   font-size: small;
 }
+#email-error {
+  text-align: left;
+  font-size: small;
+  color: red;
+  margin-bottom: 5px;
+
+}
 
 
 
